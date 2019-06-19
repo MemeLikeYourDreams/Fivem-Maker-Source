@@ -1,0 +1,10 @@
+H:\vsp\fivem-maker\bin\Debug\fivem-maker.exe.config
+H:\vsp\fivem-maker\bin\Debug\fivem-maker.exe
+H:\vsp\fivem-maker\bin\Debug\fivem-maker.pdb
+H:\vsp\fivem-maker\obj\Debug\fivem-maker.csprojAssemblyReference.cache
+H:\vsp\fivem-maker\obj\Debug\fivem_maker.form1.resources
+H:\vsp\fivem-maker\obj\Debug\fivem_maker.Properties.Resources.resources
+H:\vsp\fivem-maker\obj\Debug\fivem-maker.csproj.GenerateResource.cache
+H:\vsp\fivem-maker\obj\Debug\fivem-maker.csproj.CoreCompileInputs.cache
+H:\vsp\fivem-maker\obj\Debug\fivem-maker.exe
+H:\vsp\fivem-maker\obj\Debug\fivem-maker.pdb
